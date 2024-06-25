@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.47838805"
+     inkscape:cx="384.62499"
+     inkscape:cy="394.03158"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g86327"
+       transform="matrix(0.71026599,0,0,0.68595671,-23.668649,15.997926)">
+      <rect
+         style="fill:#008000;stroke-width:0.264583"
+         id="rect70758"
+         width="300"
+         height="60"
+         x="31.037823"
+         y="33.67231" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="47.748619"
+         y="48.583786"
+         id="text74303"><tspan
+           sodipodi:role="line"
+           id="tspan74301"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffff00;stroke-width:0.264583"
+           x="47.748619"
+           y="48.583786"></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffff00;stroke-width:0.264583"
+           id="tspan74305"
+           x="47.748619"
+           y="67.10466">Shree Kamatcheeammen Temple</tspan></text>
+    </g>
+  </g>
+</svg>
