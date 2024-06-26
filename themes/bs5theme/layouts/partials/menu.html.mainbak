@@ -1,3 +1,31 @@
+<!-- Topbar Start -->
+<div class="container-fluid bg-primary text-white d-none d-lg-flex">
+<div class="container py-3">
+    <div class="d-flex align-items-center justify-content-center">
+        <a href="/">
+            <!--<h2 class="text-white fw-bold m-0">SKT</h2>-->
+            <!-- <img src="/images/700x350.png" alt="logo"> -->
+            <img src="/images/goodstubskts.png" alt="logo" width="700" height="350">
+        </a>
+        <!-- <div class="ms-auto d-flex align-items-center"> -->
+            <!-- <small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>42 Kamatcheeammen Pl, NewLands west, SA</small> -->
+            <!-- <small class="ms-4"><i class="fa fa-envelope me-3"></i>info@example.com</small> -->
+            <!-- <small class="ms-4"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</small> -->
+            <!-- <div class="ms-3 d-flex"> -->
+                <!--<a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2" href=""><i
+                        class="fab fa-facebook-f"></i></a>-->
+                <!--<a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2" href=""><i
+                        class="fab fa-twitter"></i></a>-->
+                <!--<a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2" href=""><i
+                        class="fab fa-linkedin-in"></i></a>-->
+            <!-- </div> -->
+        <!-- </div> -->
+    </div>
+</div>
+</div>
+<!-- Topbar End -->
+
+
 <!-- Navbar Start -->
 <div class="container-fluid bg-white sticky-top">
 <div class="container">
